@@ -64,6 +64,9 @@
     "moment-timezone": "^0.5.27",
     "qunit-dom": "^0.9.2"
   },
+  "engines": {
+    "node": "> 15.*"
+  },
   "ember-addon": {
     "after": [
       "ember-cli-moment-shim"
